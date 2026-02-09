@@ -35,5 +35,8 @@
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "accessibility.hideAccessibleView": true,
   "terminal.integrated.accessibleViewOnCellFocus": false,
-  "editor.accessibilitySupport": "off"
+  "editor.accessibilitySupport": "off",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
 }
+
