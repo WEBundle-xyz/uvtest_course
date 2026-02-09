@@ -1,3 +1,5 @@
 {
-  "python.terminal.executeInFileDir": true
+  "python.terminal.executeInFileDir": true,
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "always"
 }
