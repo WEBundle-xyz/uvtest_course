@@ -1,0 +1,38 @@
+{
+  "editor.fontFamily": "Inter",
+  "editor.fontSize": 16,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": false,
+
+  "terminal.integrated.fontFamily": "Menlo",
+  "terminal.integrated.fontWeight": "400",
+  "terminal.integrated.fontSize": 14,
+
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "workbench.externalBrowser": "chrome",
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "workbench.preferredLightColorTheme": "Tokyo Night",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.iconTheme": "material-icon-theme",
+  "accessibility.verbosity.terminal": false,
+  "files.autoSaveDelay": 600,
+  "terminal.integrated.cwd": "/Users/stefg/0dev/",
+  "workbench.colorTheme": "Tokyo Night",
+  "editor.allowVariableFontsInAccessibilityMode": true,
+  "terminal.integrated.padding": {
+    "top": 6,
+    "bottom": 4,
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.tree.indent": 20,
+  "explorer.confirmDelete": false,
+  "python.terminal.executeInFileDir": true,
+  "terminal.integrated.accessibilitySupport": "off",
+  "jupyter.interactiveWindow.textEditor.executeSelection": true,
+  "accessibility.hideAccessibleView": true,
+  "terminal.integrated.accessibleViewOnCellFocus": false,
+  "editor.accessibilitySupport": "off",
+}
+
