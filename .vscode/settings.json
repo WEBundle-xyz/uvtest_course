@@ -19,7 +19,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "accessibility.verbosity.terminal": false,
   "files.autoSaveDelay": 600,
-  "terminal.integrated.cwd": "/Users/stefg/0dev/",
+  "terminal.integrated.cwd": "/home/badge_4o4/Pentest/python/scripts",
   "workbench.colorTheme": "Tokyo Night",
   "editor.allowVariableFontsInAccessibilityMode": true,
   "terminal.integrated.padding": {
